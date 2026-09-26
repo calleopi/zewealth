@@ -1,0 +1,9 @@
+{
+  "name": "ZeWealth",
+  "short_name": "ZeWealth",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#180608",
+  "theme_color": "#180608",
+  "description": "ZeWealth personal finance dashboard"
+}
