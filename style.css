@@ -287,7 +287,7 @@ body.dark th { background:#292526; color:#aaa; }
 body.dark td { border-color:#342f30; }
 body.dark .form-control, body.dark .icon-btn { background:#211e1f; color:#eee; border-color:#413a3c; }
 
-/* ZeWealth design-system refinement based on the supplied dashboard/ledger reference */
+/* ZeWealth design-system refinement */
 :root { --sidebar: 145px; }
 .sidebar { padding: 20px 12px; }
 .sidebar .logo { font-size: 14px; padding: 0 8px 25px; }
@@ -367,7 +367,7 @@ td { padding: 10px 11px; }
   .dashboard-grid { grid-template-columns:1fr; }
 }
 
-/* ===== ZeWealth readability + interaction fix ===== */
+/* ===== readability + interaction fix ===== */
 body { font-size: 14px; }
 .sidebar .logo { font-size: 16px; }
 .sidebar-section-title { font-size: 9px; }
