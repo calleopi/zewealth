@@ -1,4 +1,4 @@
-# ZeWealth v5
+# ZeWealth
 
 Frontend personal finance app with localStorage, CSV import/export, monthly budget calculations, and PWA support.
 
